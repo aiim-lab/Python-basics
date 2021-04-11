@@ -2,4 +2,4 @@
 1) Automatic dictionary
 2) Web map application which produces results in html
 3) Motion detector using open cv
-
+4) Face detection from image using open cv
